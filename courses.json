@@ -1,0 +1,39 @@
+{
+	"id": "course1",
+	"name": "HTML",
+	"description": "Learn HTML",
+	"slots": 30,
+	"schedule": "Monday - Friday",
+	"isActive": true,
+	"price": 2500,
+	"enrollees": [
+
+		{
+
+			"id": "enrollee1-user1",
+			"user_id":"user1",
+			"dateEnrolled":"01/12/12",
+			"status":"enrolled"
+		},
+	]
+},
+
+{
+	"id": "course2",
+	"name": "JavaScript",
+	"description": "Learn HTML",
+	"slots": 30,
+	"schedule": "Tuesday - Thursday",
+	"isActive": true,
+	"price": 3500,
+	"enrollees": [
+
+		{
+			
+			"id": "enrollee2-user2",
+			"user_id":"user2",
+			"dateEnrolled":"07/12/12",
+			"status":"enrolled"
+		},
+	]
+}

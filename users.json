@@ -1,0 +1,44 @@
+user {
+
+    "id": "user1",
+   " username": "Symboggs",
+    "firstName": "Boggs",
+    "lastName": "Ramos",
+    "email": "boggsramos23@gmail.com",
+    "password":"sovasagereyna",
+    "mobileNumber":"09123456789",
+    "isAdmin":"false",
+    "enrollments": [
+        {
+
+            "id": "enrollment1-user1",
+            "courseId":"course1",
+            "dateEnrolled": "01/12/12",
+            "isPaid" "true"
+        },
+    ]
+
+},
+
+user {
+
+    "id": "user2",
+   " username": "Symbol",
+    "firstName": "Boggy",
+    "lastName": "Wamos",
+    "email": "boggs.ramos@gmail.com",
+    "password":"sovasovasova",
+    "mobileNumber":"09987654321",
+    "isAdmin":"false",
+    "enrollments": [
+        {
+
+            "id": "enrollment1-user2",
+            "courseId":"course2",
+            "dateEnrolled": "07/12/12",
+            "isPaid" "true"
+        },
+    ]
+
+}
+
